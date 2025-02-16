@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Powerful laptop with 16GB RAM",
+        "price": 1200,
+        "image": "laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "Latest model smartphone with great features",
+        "price": 800,
+        "image": "smartphone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Noise-canceling over-ear headphones",
+        "price": 150,
+        "image": "headphones.jpg"
+    }
+]
