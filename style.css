@@ -70,3 +70,28 @@ button {
     background: #ff6600;
     color: white;
 }
+
+.promo-code-section {
+    margin-top: 15px;
+}
+
+.promo-code-section input {
+    padding: 8px;
+    width: 150px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.promo-code-section button {
+    padding: 8px 12px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#promo-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
