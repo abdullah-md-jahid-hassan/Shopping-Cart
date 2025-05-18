@@ -58,7 +58,8 @@ Shopping-Cart/
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/4fdcb354-8c9c-497a-a102-cf9eb1c6197c)
+![image](https://github.com/user-attachments/assets/cfb4c110-f51b-46ad-af69-9b4376536238)
+
 
 
 ---
